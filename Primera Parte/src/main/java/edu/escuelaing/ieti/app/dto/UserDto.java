@@ -1,5 +1,7 @@
 package edu.escuelaing.ieti.app.dto;
-
+/**
+ * @author Diego Gonzalez
+ */
 public class UserDto {
     private String id;
     private String name;

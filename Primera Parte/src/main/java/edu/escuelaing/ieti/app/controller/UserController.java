@@ -47,13 +47,13 @@ public class UserController {
   * @return
   */
  @GetMapping( "/{id}" )
- public ResponseEntity<User> findById( @PathVariable String id ) {
+ public ResponseEntity<?> findById( @PathVariable String id ) {
     try{
         return new ResponseEntity<>(userService.findById(id),HttpStatus.ACCEPTED);
     }
     catch(UserServicePersistenceException ex){
         ex.printStackTrace();
-        return new ResponseEntity<>(null,HttpStatus.NOT_FOUND);
+        return new ResponseEntity<>(ex.getMessage(),HttpStatus.NOT_FOUND);
     }
  }
 

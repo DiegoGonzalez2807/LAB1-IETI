@@ -103,23 +103,23 @@
 
 ### Pruebas REST para el Usuario
 ### Insercion de Usuario
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Insercion2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/insercion.png)
 
 ### Traer todos los usuarios (Contexto: Se crea otro usuario para ver de mejor manera la correcta ejecución)
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/GetAll2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/todo.png)
 
 ### Encontrar usuario por identificador (ID)
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Find1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/encontrarID.png)
 
 ### Actualización de usuario
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Update1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/update.png)
 #### Se realiza una búsqueda de todos los usuarios para ver si se actualizó de manera correcta el usuario
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Update2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/update2.png)
 
 ### Eliminación de usuario
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Delete1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/delete1.png)
 #### Se realiza una búsqueda de todos los usuarios para ver si se eliminó de manera correcta el usuario
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/src/main/resources/images/Delete2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Primera%20Parte/app/src/main/resources/images/delete2.png)
 
 
 ## Part 2: Implementing the Tasks Microservice RESTFUL API
@@ -157,22 +157,22 @@
 ## 
 ### Pruebas REST para las tareas
 ### Insercion de tarea
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/Insercion1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/create.png)
 
 ### Traer todas las tareas (Contexto: Se crea otra tarea para ver de mejor manera la correcta ejecución)
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/TodoValores1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/get1.png)
 
 ### Encontrar tarea por nombre 
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/PorNombre1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/find1.png)
 
 ### Actualización de tarea
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/Modificar1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/update1.png)
 #### Se realiza una búsqueda de todas las tareas para ver si se actualizó de manera correcta
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/Modificar2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/update2.png)
 
 ### Eliminación de tarea
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/Eliminar1.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/delete1.png)
 #### Se realiza una búsqueda de todas las tareas para ver si se eliminó de manera correcta 
-![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/src/main/resources/images/Eliminar2.png)
+![](https://github.com/DiegoGonzalez2807/LAB1-IETI/blob/master/Segunda%20Parte/app/src/main/resources/images/delete2.png)
 
 Remember to add your both **Github** repos url into the **Ada** input box to deliver correctly your codelab.
